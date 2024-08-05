@@ -7,7 +7,6 @@ public class Program
 {
     public static void Main()
     {
-        // This Main method is not needed for unit tests but can be used to run your classes directly
         Console.WriteLine("This is a console application.");
     }
 }
